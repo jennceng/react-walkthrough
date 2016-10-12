@@ -1,0 +1,9 @@
+.bundle
+.DS_store
+config/database.yml
+Gemfile.lock
+/public/javascripts/bundle.js
+/node_modules
+/react/coverage/
+npm-debug.log
+.env
